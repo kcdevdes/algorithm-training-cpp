@@ -7,7 +7,7 @@ algorithm problems posted on BACKJOON website.
 
 This repository is **NOT** created with the purpose to reveal the answers to algorithm problems on the website.
 
-If you are an algorithm problem solver, I strongly recommend not to refer to this repository **AT ALL**.
+If you are an algorithm problem solver, I strongly recommend not to copy any file from this repository.
 
 Such behavior could be determined as cheating by the website, causing the ban of your account.
 
@@ -37,3 +37,8 @@ I have **NO** responsibility for your behaviors.
 2439, 
 2440, 
 2441,
+2445,
+2446,
+2552,
+10991,
+10992,
