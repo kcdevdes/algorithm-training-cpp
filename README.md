@@ -6,14 +6,14 @@ algorithm problems posted on BACKJOON website.
 # DISCLAIMER
 
 This repository is **NOT** created with the purpose to reveal the answers to algorithm problems on the website.
-
+q
 If you are an algorithm problem solver, I strongly recommend not to copy any file from this repository.
 
 Such behavior could be determined as cheating by the website, causing the ban of your account.
 
 I have **NO** responsibility for your behaviors.
 
-# I have completed to solve these below so far
+## I have solved these below so far
 2557, 
 1000, 
 2558, 
@@ -42,3 +42,5 @@ I have **NO** responsibility for your behaviors.
 2552,
 10991,
 10992,
+1463,
+11726,
